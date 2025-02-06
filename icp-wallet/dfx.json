@@ -1,0 +1,8 @@
+{
+    "canisters": {
+      "wallet": {
+        "type": "rust"
+      }
+    }
+  }
+  
